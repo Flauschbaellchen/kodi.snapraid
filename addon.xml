@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.snapraid" name="Snapraid" version="0.1.0" provider-name="Flauschbaellchen">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Provides basic commands to interact with SnapRaid.</summary>
+    <description lang="en">The addon provides basic commands to interact with SnapRaid which needs to be installed on the local system.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>linux</platform>
+    <license>MIT License</license>
+    <website>https://github.com/Flauschbaellchen/kodi.snapraid</website>
+    <source>https://github.com/Flauschbaellchen/kodi.snapraid</source>
+  </extension>
+</addon>
