@@ -1,4 +1,4 @@
-This addon is in its earliest development stage and has not been release yet.
+This addon is in its earliest development stage and has not been released yet.
 
 Despite this, feel free to contribute ;)
 
